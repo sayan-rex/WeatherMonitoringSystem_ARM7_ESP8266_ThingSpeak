@@ -1,10 +1,10 @@
-# 🌦️ Weather Monitoring System using ARM7 (LPC2148) + ESP8266 + ThingSpeak
+# Weather Monitoring System using ARM7 (LPC2148) + ESP8266 + ThingSpeak
 
 This project demonstrates a low-cost **IoT Weather Monitoring System** using the **LPC2148 ARM7 microcontroller**, **DHT11 sensor**, and **ESP8266 Wi-Fi module**. The system captures real-time **temperature and humidity** and pushes it to the **ThingSpeak IoT cloud** via HTTP.
 
 ---
 
-## 🧰 Hardware Required
+## Hardware Required
 
 - LPC2148 ARM7 Development Board
 - ESP8266 Wi-Fi Module (ESP-01)
@@ -16,7 +16,7 @@ This project demonstrates a low-cost **IoT Weather Monitoring System** using the
 
 ---
 
-## 💻 Software & Tools
+## Software & Tools
 
 | Tool            | Purpose                              |
 |-----------------|--------------------------------------|
@@ -26,7 +26,7 @@ This project demonstrates a low-cost **IoT Weather Monitoring System** using the
 
 ---
 
-## 🔗 ThingSpeak Setup
+## ThingSpeak Setup
 
 1. Create a [ThingSpeak account](https://thingspeak.com).
 2. Create a new channel with 2 fields:
@@ -37,7 +37,7 @@ This project demonstrates a low-cost **IoT Weather Monitoring System** using the
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```bash
 WeatherMonitoringSystem/
